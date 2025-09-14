@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harshita Joshi.
-- 👀 I like reading and music.
-- 🌱 I’m currently learning programming. 
+
 
 
 <!---
